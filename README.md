@@ -1,4 +1,4 @@
-# AVD Checkpoint 1 Data Gathering Business Understanding
+# AVD Checkpoint
 ### Studi kasus berupa analisis hubungan harga, ulasan, dan rating pada produk Adidas.<br>
 Dalam industri e-commerce, harga, ulasan pelanggan, dan rating produk merupakan faktor utama yang memengaruhi keputusan pembelian. Adidas sebagai salah satu merek global perlu memahami bagaimana faktor-faktor ini saling berkaitan untuk menyusun strategi pemasaran dan penetapan harga yang lebih efektif.<br>
 
